@@ -1,3 +1,5 @@
+"""Module config and setup"""
+
 import re
 
 import setuptools
